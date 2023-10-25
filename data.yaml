@@ -1,0 +1,14 @@
+path: 20231017
+train: /train/images
+val: /valid/images
+test: /test/images
+
+nc: 2
+names: ['-', 'Milk-Jug']
+
+roboflow:
+  workspace: rb-flw-lcxw9
+  project: planet-green
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/rb-flw-lcxw9/planet-green/1
